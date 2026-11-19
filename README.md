@@ -11,7 +11,8 @@ Kho lưu trữ này chứa toàn bộ mã nguồn đo đạc thực nghiệm, d�
 
 👉 **Xem báo cáo chi tiết đầy đủ tại:** [BAO_CAO_THI_NGHIEM_CUTOFF.md](BAO_CAO_THI_NGHIEM_CUTOFF.md)  
 👉 **Xem đồ thị trực quan tương tác Chart.js:** [report.html](report.html)  
-👉 **Dữ liệu đo đạc thực nghiệm:** [cutoff_benchmark_results.csv](cutoff_benchmark_results.csv)
+👉 **Dữ liệu đo đạc thực nghiệm:** [cutoff_benchmark_results.csv](cutoff_benchmark_results.csv)  
+👉 **Nhật ký tương tác AI (AI Log):** [AI_LOG.md](AI_LOG.md)
 
 ---
 
