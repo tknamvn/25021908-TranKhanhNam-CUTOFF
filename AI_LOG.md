@@ -2,7 +2,7 @@
 
 * **Học phần:** Cấu trúc dữ liệu và giải thuật (DSA) - UET, ĐHQGHN
 * **Sinh viên:** Trần Khánh Nam - MSSV: 25021908
-* **Công cụ hỗ trợ:** Gemini AI (Google DeepMind)
+* **Công cụ hỗ trợ:** Gemini AI
 
 ---
 
